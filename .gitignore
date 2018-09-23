@@ -115,3 +115,4 @@ dmypy.json
 *.pickle
 __pycache__/
 MNIST_data/
+mnist/
