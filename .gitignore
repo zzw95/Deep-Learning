@@ -120,3 +120,8 @@ mnist/
 *.p
 cifar-10-batches-py/
 *.gz
+checkpoints/
+flower_photos/
+*.npy
+codes
+labels
