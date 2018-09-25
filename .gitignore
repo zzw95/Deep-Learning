@@ -116,3 +116,7 @@ dmypy.json
 __pycache__/
 MNIST_data/
 mnist/
+.floydignore
+*.p
+cifar-10-batches-py/
+*.gz
